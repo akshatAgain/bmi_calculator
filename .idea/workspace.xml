@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ffc3582-8b37-4c2b-8f1a-0fb0e8ee92f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/Calculator_Brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Bottom_Button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Icon_Content.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Reusable_Card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Round_Icon_Button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/Input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/Results_Page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sfmNbZcjSW93lqSZH5PPOkYtd5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="C:/android-sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../destini-flutter" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\Projects\bmi_calculator\lib\Components" />
+      <recent name="U:\Projects\bmi_calculator\lib\Screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ffc3582-8b37-4c2b-8f1a-0fb0e8ee92f4" name="Default Changelist" comment="" />
+      <created>1621271982390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621271982390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="862" y="130" width="581" height="640" key="AVDManager" timestamp="1621930423841">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="862" y="130" width="581" height="640" key="AVDManager/0.30.1536.834@0.30.1536.834" timestamp="1621930423841" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1622092525956">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1622092525956" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1622003676746">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1622003676746" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1622003676746">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1622003676746" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1622003676746">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1622003676746" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1622003676746">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1622003676746" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1621488205395">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.30.1536.834@0.30.1536.834" timestamp="1621488205395" />
+    <state x="809" y="208" key="run.anything.popup" timestamp="1621579113952">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="809" y="208" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1621579113952" />
+    <state x="814" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1621880719042">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="814" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1621880719042" />
+  </component>
+</project>
